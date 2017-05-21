@@ -2,3 +2,5 @@ env/
 lib/
 tmp/
 *.pyc
+*.xml
+.idea/social-evolution.iml
